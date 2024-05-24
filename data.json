@@ -1,0 +1,79 @@
+{
+  "chunks": [
+    {
+      "audio_file": "/tmp/audio1.wav",
+      "start_time": 0,
+      "end_time": 120,
+      "utterances": [
+        {
+          "start": 0,
+          "end": 10,
+          "text": "Hello, how are you feeling today?",
+          "speaker": "A"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "text": "I'm feeling better, thank you.",
+          "speaker": "B"
+        },
+        {
+          "start": 21,
+          "end": 30,
+          "text": "Have you been taking your medication regularly?",
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "audio_file": "/tmp/audio2.wav",
+      "start_time": 120,
+      "end_time": 240,
+      "utterances": [
+        {
+          "start": 121,
+          "end": 130,
+          "text": "Yes, I've been taking it every day.",
+          "speaker": "A"
+        },
+        {
+          "start": 131,
+          "end": 140,
+          "text": "Great to hear! Any side effects?",
+          "speaker": "B"
+        },
+        {
+          "start": 141,
+          "end": 150,
+          "text": "No, none at all.",
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "audio_file": "/tmp/audio3.wav",
+      "start_time": 240,
+      "end_time": 360,
+      "utterances": [
+        {
+          "start": 240,
+          "end": 280,
+          "text": "And what about your arms?",
+          "speaker": "A"
+        },
+        {
+          "start": 280,
+          "end": 300,
+          "text": "They are still kind of hurting.",
+          "speaker": "B"
+        },
+        {
+          "start": 300,
+          "end": 360,
+          "text": "That's too bad. Let's get you fixed up.",
+          "speaker": "A"
+        }
+      ]
+    }
+  ]
+}
